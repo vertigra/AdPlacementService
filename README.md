@@ -1,4 +1,6 @@
-# AdPlacementService
+# AdPlacementService     
+[![.NET](https://github.com/vertigra/AdPlacementService/actions/workflows/dotnet.yml/badge.svg)](https://github.com/vertigra/AdPlacementService/actions/workflows/dotnet.yml)
+![GitHub License](https://img.shields.io/github/license/vertigra/AdPlacementService)
 
 Веб-сервис для подбора рекламных площадок по географическим локациям.
 
